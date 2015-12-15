@@ -1,0 +1,2 @@
+# Clock
+Simple javaScript clock
